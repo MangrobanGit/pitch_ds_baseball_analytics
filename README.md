@@ -1,4 +1,8 @@
 
+Slide Deck : [Pitch DS - Baseball Analytics](https://docs.google.com/presentation/d/1J-Z5fk1yK_eDGFtXMvaUAYLYH8LSZaeo9yV3E9rfO3g/edit?usp=sharing)
+
+---
+
 # Module 3 Final Project
 
 
