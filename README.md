@@ -11,7 +11,7 @@ We identified opportunities to leverage public baseball metrics to identify clas
 ## Methodology
 
 ### Business Understanding
-Baseball in a sport with a rich culture of data analytics, and unsurprisingly much data is publicly available. With our interest in leveraging that data to explore a classification problems, we identified the following:
+Baseball is a sport with a rich culture of data analytics, and unsurprisingly much data is publicly available. With our interest in leveraging that data to explore a classification problems, we identified the following:
 We explore two specific business cases:
 1. Identifying pitches based primarily on its physical characteristics, e.g., spin rate, velocity, among others. The predicted classes were specific pitches: e.g., Four-Seam Fastball, Slider, Curveball, et al.
     - While major broadcast media already has this feature, there is an opportunity to enhance local broadcasts with real-time pitch identification for consumer consumption.
